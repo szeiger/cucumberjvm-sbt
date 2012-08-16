@@ -6,4 +6,4 @@ Feature: Basic Arithmetic
     Then the result is 9
   Scenario: Subracting
   	When I subtract 4 from 5
-  	Then the result is 1
+  	Then the result is 2
